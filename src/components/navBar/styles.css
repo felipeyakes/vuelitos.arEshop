@@ -1,0 +1,27 @@
+.nav{
+    background-color: #5a5959;
+    display: flex;
+    align-items: center; /* centrar verticalmente */
+    padding-left: 80px;
+    padding-right: 80px;
+    height: 100px;
+    font-size: 20px;
+}
+
+.navOptions{
+    margin-left: auto;
+    margin-right: 40px;
+}
+
+.navOptions a{
+    margin-right: 30px;
+    color: rgb(255, 255, 255);
+}
+
+.navOptions a:last-child {
+    margin-right: 0;
+}
+
+.logoVuelitosAR{
+    width: 280px;
+}

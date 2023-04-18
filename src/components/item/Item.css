@@ -1,0 +1,10 @@
+.cardItem{
+    width: 300px;
+    height: 400px;
+    background-color: rgb(229, 229, 229);
+    border: solid 1px rgb(0, 0, 0);
+    border-radius: 10px;
+    margin-top: 20px;
+    text-align: center;
+}
+

@@ -2,3 +2,15 @@
     text-align: center;
     margin-top: 50px;
 }
+
+.productsDiv{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.productsDivContainer{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+}
